@@ -335,7 +335,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   pg (~> 1.1)
-  puma (~> 5.0)
+  puma
   rails (~> 7.1.2)
   rspec-rails
   rubocop (>= 1.0, < 2.0)
