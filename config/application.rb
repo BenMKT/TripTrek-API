@@ -3,12 +3,12 @@
 require_relative 'boot'
 
 require 'rails/all'
-require 'sprockets/railtie'
+# require 'sprockets/railtie'
 
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
-Bundler.require(*Rails.groups)
-# Bundler.require(:default, :assets, Rails.env)
+# Bundler.require(*Rails.groups)
+Bundler.require(:default, :assets, Rails.env)
 
 module FinalCapstoneProjectApi
   class Application < Rails::Application
