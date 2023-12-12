@@ -20,4 +20,4 @@
 #   photo: 'https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/X7/10571/1689673096346/front-left-side-47.jpg?imwidth=890&impolicy=resize'
 # )
 
-User.Create(username: "Ali", password: 123456, role: "admin", email: "adminuser@api.com")
+User.create!(username: "Ali", password: 123456, role: "admin", email: "adminuser@api.com")
