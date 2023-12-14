@@ -79,6 +79,4 @@ test:
 #
 production:
   <<: *default
-  database: final_capstone_project_api_production
-  username: final_capstone_project_api
-  password: <%= ENV["FINAL_CAPSTONE_PROJECT_API_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
