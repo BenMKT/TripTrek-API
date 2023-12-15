@@ -84,11 +84,11 @@ The following stacks were used
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo 
-<a name="live-demo" href="#">Demo(not available)</a>
+## 🚀 API Documentation
+[Live Demo](https://final-capstone-project.onrender.com/api-docs/)
 
-## 🚀 Video Demo 
-<a name="live-demo" href="#">Video(not available)</a>
+## 🚀 Live Demo 
+[Live Demo](https://final-capstone-project-frontend.onrender.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

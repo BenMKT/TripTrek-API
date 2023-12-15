@@ -26,6 +26,7 @@ module Api
 
       def destroy
         @car = Car.find(params[:id])
+        @car.reservations.destroy_all
         if @car.destroy
           render json: { message: 'Car deleted successfully', status: 'success' }, status: :ok
         else
