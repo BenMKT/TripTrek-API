@@ -5,7 +5,7 @@ module Api
 
       # GET /reservations
       def index
-        @reservations = Reservation.accessible_by(current_ability)
+        @reservations = Reservation.where(user_id: current_user.id)
         if @reservations.empty?
           render json: { status: 'No reservation found' }, status: :not_found
         else
