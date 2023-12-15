@@ -118,11 +118,6 @@ Example commands:
  
 --->
 Before to run the program, verify that you have Ruby installed on your OS running the following command:
-<!--
-```sh
-   ruby -v
-```
---->
 
 ### Usage
 
