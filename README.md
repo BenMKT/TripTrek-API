@@ -88,7 +88,7 @@ The following stacks were used
 [API Documentation Link](https://final-capstone-project.onrender.com/api-docs/)
 
 ## 🚀 Live Demo 
-[Front-End Live Demo](https://final-capstone-project-frontend.onrender.com/)
+[Front-End Live Demo](https://triptrek-7690.onrender.com)
 
 [Link to Front End Repo](https://github.com/BenMKT/TripTrek-UI)
 
