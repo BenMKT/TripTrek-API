@@ -85,11 +85,9 @@ The following stacks were used
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo 
-<a name="live-demo" href="#">Demo(not available)</a>
+<a name="live-demo" href="#">Demo(check front-end repo link below)</a>
 
-## 🚀 Video Demo 
-<a name="live-demo" href="#">Video(not available)</a>
-
+[Link to Front End Repo](https://github.com/BenMKT/TripTrek-UI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
