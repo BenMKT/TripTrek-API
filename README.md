@@ -84,8 +84,11 @@ The following stacks were used
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 API Documentation
+[API Documentation Link](https://final-capstone-project.onrender.com/api-docs/)
+
 ## 🚀 Live Demo 
-<a name="live-demo" href="#">Demo(check front-end repo link below)</a>
+[Front-End Live Demo](https://final-capstone-project-frontend.onrender.com/)
 
 [Link to Front End Repo](https://github.com/BenMKT/TripTrek-UI)
 
