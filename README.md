@@ -85,7 +85,7 @@ The following stacks were used
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 API Documentation
-[Live Demo](https://final-capstone-project.onrender.com/api-docs/)
+[API Documentation Link](https://final-capstone-project.onrender.com/api-docs/)
 
 ## 🚀 Live Demo 
 [Live Demo](https://final-capstone-project-frontend.onrender.com/)
