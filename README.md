@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>TripTrek</b></h3>
+  <h3><b>TripTrek-API</b></h3>
 
 </div>
 
@@ -90,6 +90,7 @@ The following stacks were used
 ## 🚀 Live Demo 
 [Live Demo](https://final-capstone-project-frontend.onrender.com/)
 
+[Link to Front End Repo](https://github.com/BenMKT/TripTrek-UI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
